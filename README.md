@@ -20,13 +20,13 @@ List of projects:
     2.1 General project description: [https://github.com/TomekOs/Sentiment_analysis](https://github.com/TomekOs/Sentiment_analysis)   
     2.2 Jupyter notebook with data analysis and models training: [https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb](https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb)
     
-3. **Sounding Polish names generator** - training language model for the purpuse of text data generation 
+3. **Polish-sounding names generator** - training language model for the purpuse of text data generation 
 
     **Models used**: LSTM  
     **Implementation:** Scrapy, Pandas, Pytorch
     
     Project files:  
-    3.1 General project description: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb)  
+    3.1 General project description: [https://github.com/TomekOs/Polish_sounding_names_generator](https://github.com/TomekOs/Polish_sounding_names_generator)  
     3.2 Web scrapping: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb)  
     3.3 Preparation of training data: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/02%20Prepare%20training%20data.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/02%20Prepare%20training%20data.ipynb)  
     3.4 LSTM model training and text generation: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/03%20Build%20model.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/03%20Build%20model.ipynb)
