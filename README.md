@@ -5,11 +5,11 @@ This is summary of Machine Learning and Deep Learning projects made by Tomasz Os
 List of projects:
 1. **Image classification** - multiclassifiction problem  
 
-    **Models used**:  
-    **Implementation:**
+    **Models used**: Resnet-34
+    **Implementation:** Pytorch
     
     Project files:  
-    1.1 General project description: 
+    1.1 Jupyter notebook: [https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb](https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb) 
     
 2. **Sentiment analysis for IMDB reviews** - binary classification problem.
 
