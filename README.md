@@ -8,17 +8,16 @@ List of projects:
     **Models used**: Resnet-34  
     **Implementation:** Pytorch
     
-    Project files:  
-    1.1 Jupyter notebook: [https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb](https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb) 
+    Project file:  
+    Jupyter notebook: [https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb](https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb) 
     
 2. **Sentiment analysis for IMDB reviews** - binary classification problem.
 
     **Models used**: Embeddings, LSTM, GRU, Naive Bayes, Logistic Regression, SVM, Random Forest, XGBoost.  
     **Implementation:** Pandas, Matplotlib, Scikit-learn, Keras.  
     
-    Project files:   
-    2.1 General project description: [https://github.com/TomekOs/Sentiment_analysis](https://github.com/TomekOs/Sentiment_analysis)   
-    2.2 Jupyter notebook with data analysis and models training: [https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb](https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb)
+    Project file:      
+    Jupyter notebook with data analysis and models training: [https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb](https://github.com/TomekOs/Sentiment_analysis/blob/master/Sentiment%20analysis%20for%20IMDB%20reviews.ipynb)
     
 3. **Polish-sounding names generator** - training language model for the purpuse of text data generation 
 
