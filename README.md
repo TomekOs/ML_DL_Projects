@@ -5,7 +5,7 @@ This is summary of Machine Learning and Deep Learning projects made by Tomasz Os
 List of projects:
 1. **Image classification** - multiclassifiction problem  
 
-    **Models used**: Resnet-34
+    **Models used**: Resnet-34  
     **Implementation:** Pytorch
     
     Project files:  
