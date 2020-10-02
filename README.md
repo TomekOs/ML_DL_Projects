@@ -8,7 +8,7 @@ List of projects:
     **Models used**: Resnet-34, U-net, Patch Match algorithm  
     **Implementation:** Pytorch, Pytorch Lightning
 
-    Colorization results presentation in PDF: [https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization%20Thesis%20eng.pdf](https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization%20Thesis%20eng.pdf)  
+    Colorization results presentation in PDF: [https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization%20Thesis%20presentation%20eng.pdf](https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization%20Thesis%20presentation%20eng.pdf)  
     Jupyter notebook: [https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization.ipynb](https://github.com/TomekOs/Image_colorization/blob/master/Multimodal%20Colorization.ipynb)  
 
     
