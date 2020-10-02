@@ -29,10 +29,3 @@ List of projects:
     3.2 Web scrapping: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/01%20Web%20scrapping%20names.ipynb)  
     3.3 Preparation of training data: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/02%20Prepare%20training%20data.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/02%20Prepare%20training%20data.ipynb)  
     3.4 LSTM model training and text generation: [https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/03%20Build%20model.ipynb](https://github.com/TomekOs/Polish_sounding_names_generator/blob/master/03%20Build%20model.ipynb)
-
-1. **Image classification** - multiclassifiction problem  
-
-    **Models used**: Resnet-34  
-    **Implementation:** Pytorch
-    
-    Jupyter notebook: [https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb](https://github.com/TomekOs/Image_classification/blob/master/Image%20classifcation.ipynb) 
